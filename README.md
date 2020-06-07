@@ -7,7 +7,7 @@ Test : https://bank-backend-springboot.herokuapp.com/bank
 Test API Method 2:
 
 Download and Test
-https://github.com/hocyadav/bank-backend/releases/download/v1/bank-0.0.1-SNAPSHOT.jar.zip
+https://github.com/hocyadav/bank-backend/releases/download/v1/bank-v1.jar
 
 `java -jar bank-v1.jar`
 
