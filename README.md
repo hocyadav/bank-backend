@@ -18,4 +18,4 @@ API Details (Evernote) :https://www.evernote.com/l/AGCzfcKgdvVL8LsIZVPAXfldPs8ux
 
 API Details (GitBook) : https://hocyadav.gitbook.io/notes/bank-backend
 
-Code Structure : https://gitpod.io/#https://github.com/hocyadav/bank-backend
+Code Structure (GitPod) : https://gitpod.io/#https://github.com/hocyadav/bank-backend
