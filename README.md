@@ -2,7 +2,7 @@
 
 Test API Method 1:
 
-Test : https://bank-backend-springboot.herokuapp.com/bank
+Test : http://bank-backend-springboot.herokuapp.com/bank
 
 Test API Method 2:
 
