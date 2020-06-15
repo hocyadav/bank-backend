@@ -8,7 +8,7 @@ import com.hariom.bank.entity.Transaction;
  * @author Hariom Yadav | 06-Jun-2020
  *
  */
-public abstract class BankAccount {
+public abstract class BankAccount {//AbstractBankAccount
 	
 	String accountNumber;
 	Double minimumBalance;
