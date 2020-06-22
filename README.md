@@ -15,7 +15,7 @@ https://github.com/hocyadav/bank-backend/releases/download/v1/bank-v1.jar
 ## 2 API Details 
 (Evernote) :https://www.evernote.com/l/AGCzfcKgdvVL8LsIZVPAXfldPs8uxEFNamQ
 
-API Details (GitBook) : https://hocyadav.gitbook.io/notes/bank-backend
+(GitBook) : https://hocyadav.gitbook.io/notes/bank-backend
 
 ## 3 Code Structure 
 (GitPod) : https://gitpod.io/#https://github.com/hocyadav/bank-backend
