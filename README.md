@@ -1,19 +1,16 @@
 # Simple bank-backend Implementation
 
-## Test 
-### API Method 1:
+## Test API
+### Method 1:
 
 Test : http://bank-backend-springboot.herokuapp.com/bank
 
-### API Method 2:
+### Method 2:
 
 Download and Test
 https://github.com/hocyadav/bank-backend/releases/download/v1/bank-v1.jar
 
         java -jar bank-v1.jar
-
----
-
 
 ### API Details 
 (Evernote) :https://www.evernote.com/l/AGCzfcKgdvVL8LsIZVPAXfldPs8uxEFNamQ
